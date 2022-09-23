@@ -15,4 +15,4 @@ gql`
 `
 ```
 
-![main readme image](main-image.png)
+![main readme image](src/main-image.png)
